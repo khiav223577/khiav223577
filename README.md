@@ -1,6 +1,6 @@
 ### Hi there, I'm Rumble 👋
 
-Hi, I'm Rumble Huang, a full stack Ruby on Rails developer with back-end, front-end and server management skills.
+Hi, I'm Rumble Huang, a full stack Ruby on Rails developer with back-end, front-end and server management skills. And also an indie game maker.
 
 
 #### Languages and Tools
