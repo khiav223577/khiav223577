@@ -3,7 +3,7 @@
 Hi, I'm Rumble Huang, a full stack Ruby on Rails developer with back-end, front-end and server management skills. And also an indie game maker.
 
 
-#### Languages and Tools
+#### Skills and Tools
 <code><img height="24" src="https://user-images.githubusercontent.com/4011729/88266572-feb29800-cd01-11ea-8bc3-1c949dfc535a.png" ></code>
 <code><img height="24" src="https://user-images.githubusercontent.com/4011729/88267972-37ec0780-cd04-11ea-83a5-0da5abf67f30.png" ></code>
 <code><img height="24" src="https://user-images.githubusercontent.com/4011729/88266775-5bae4e00-cd02-11ea-9126-8411ea2cee00.png" ></code>
